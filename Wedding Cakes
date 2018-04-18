@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Wedding Cakes</title>
+</head>
+
+  <body>
+
+    <h1>Designer Wedding Cakes</h1>
+    <h2> Handmade to order</h2>
+    <h3>Seasonal flavours</h3>
+    <div class=top>
+    <p>price on application </p> </div>
+    <input id='input' type='text'>
+    <button id='button'> Add name</button>
+    <ul id='list'>
+      <li>Traditional</li>
+      <li>Layered</li>
+      <li>Traditional</li>
+      <li>Traditional</li>
+      <li>Traditional</li>
+      <li>Traditional</li>
+    </ul>
+<script src="jquery-3.3.1.min.js.webarchive">
+
+$('h1').css('text-align','right');</script>
+
+
+
+  </body>
+</html>
