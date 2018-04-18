@@ -13,14 +13,13 @@
     <div class=top>
     <p>price on application </p> </div>
     <input id='input' type='text'>
-    <button id='button'> Add name</button>
+    <button id='button'> Search</button>
     <ul id='list'>
-      <li>Traditional</li>
-      <li>Layered</li>
-      <li>Traditional</li>
-      <li>Traditional</li>
-      <li>Traditional</li>
-      <li>Traditional</li>
+      <li>Fruit</li>
+      <li>Lemon</li>
+      <li>Chocolate</li>
+      <li>Caramel</li>
+      <li>Berry</li>
     </ul>
 <script src="jquery-3.3.1.min.js.webarchive">
 
